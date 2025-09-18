@@ -16,8 +16,8 @@
       <section class="resume-professional-summary">
         <h2>Professional Summary</h2>
         <p>
-          Machine Learning Engineer with hands-on expertise in building scalable web, backend, and data-driven systems. Proven track record developing decentralized game backends, advanced image and NLP pipelines, authentication platforms, and enterprise-grade servers using modern frameworks and cloud-native technologies.
-            Skilled in .NET Core, C#, Node.js, Vue.js, React, Motoko, and Python for full-stack and AI development; experienced with REST APIs, OAuth, Passport.js for secure authentication; and proficient in Docker, Kubernetes, and decentralized infrastructure.
+          Software Engineer with hands-on expertise in building scalable web, backend, and data-driven systems. Proven track record developing decentralized game backends, advanced image and NLP pipelines, authentication platforms, and enterprise-grade servers using modern frameworks and cloud-native technologies.
+            Skilled in .NET Core, C#, Node.js, Vue.js, React, Motoko, and Python for full-stack and AI development.
         </p>
 
       </section>
